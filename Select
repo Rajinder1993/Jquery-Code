@@ -1,0 +1,14 @@
+
+$('.swatch-element.color').click(function(){
+var color_match = $(this).attr('data-value');
+var sortBySelect = document.querySelector(".option_name_Color .single-option-selector"); 
+sortBySelect.value = color_match; 
+sortBySelect.dispatchEvent(new Event("change"));
+})
+
+$('.swatch-element.Size').click(function(){
+var size_match = $(this).attr('data-value');
+var sortBySelect = document.querySelector(".option_name_Size .single-option-selector"); 
+sortBySelect.value = size_match; 
+sortBySelect.dispatchEvent(new Event("change"));
+})
