@@ -1,0 +1,678 @@
+<div class="overrlayed"></div>
+<div id="moon-phase" class="modal  active" data-target="" style="display: block;">
+    
+      <a class="close"> Back to store <img src="//cdn.shopify.com/s/files/1/2486/3224/t/475/assets/close_ico.png?v=8883003080817866215" alt="close button"></a>
+    
+
+    <span class="back" page-target=""><img src="//cdn.shopify.com/s/files/1/2486/3224/t/475/assets/arrow_left.svg?v=14835325224745407651" alt="arrow left"> Back </span>
+    <div class="modal-body">
+      <div class="field start">
+        <h3 class="text-center">what moment do you want to remember?</h3>
+          <h4 class="mark text-center uppercase">select your date to find your moon phase<p></p>
+            <svg width="339px" height="66px" viewBox="0 0 339 66" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+              <!-- Generator: sketchtool 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+              <title>Moon list</title>
+              <desc>Created with sketchtool.</desc>
+              <defs></defs>
+              <g class="style-guide" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+                  <g class="icons" transform="translate(-354.000000, -251.000000)">
+                      <g class="moon_list_illu" transform="translate(354.000000, 252.000000)">
+                          <g class="moon">
+                              <ellipse class="Oval" fill="#92A8D5" fill-rule="nonzero" cx="170.007485" cy="32" rx="23.8517964" ry="23.8730159"></ellipse>
+                              <path d="M236.590444,8.12698413 C239.421798,8.12698413 240.547904,18.8253968 240.547904,32 C240.547904,45.1746032 239.421798,55.8730159 236.590444,55.8730159 C223.945707,54.9612643 214.158683,44.5731195 214.158683,32.0634921 C214.158683,19.5538646 223.945707,9.16571978 236.590444,8.25396825 L236.590444,8.12698413 Z" class="Shape" fill="#92A8D5" fill-rule="nonzero"></path>
+                              <path d="M317.547696,31.9206877 C317.468135,19.4252264 326.855489,9.01329509 339,8.12698413 L337.547178,8.12698413 C324.830842,8.23170896 314.590572,18.8692385 314.642052,31.9206877 C314.576154,38.2169271 316.954354,44.2812434 321.251722,48.7750837 C325.549091,53.2689239 331.412297,55.822804 337.547178,55.8730159 L339,55.8730159 C326.795416,54.9831548 317.385902,44.4770684 317.547696,31.9206877 Z" class="Shape" fill="#92A8D5" fill-rule="nonzero"></path>
+                              <path d="M285.634465,8.12698413 C288.252446,8.1325296 290.851483,8.57231979 293.326347,9.42854825 C283.698072,12.7326457 277.22904,21.809653 277.22904,32.0154475 C277.22904,42.221242 283.698072,51.2982493 293.326347,54.6023468 C284.392083,57.6476514 274.507603,55.1126807 268.127757,48.1399238 C261.747911,41.1671669 260.077312,31.0731882 263.868885,22.4072553 C267.660457,13.7413225 276.198293,8.1396977 285.634465,8.12698413 Z" class="Shape" fill="#92A8D5" fill-rule="nonzero"></path>
+                              <path d="M170.007485,64 C187.664888,64 201.979042,49.673112 201.979042,32 C201.979042,14.326888 187.664888,0 170.007485,0 C152.350082,0 138.035928,14.326888 138.035928,32 C138.035928,49.673112 152.350082,64 170.007485,64 Z" class="Oval" stroke="#FFFFFF" stroke-width="2" stroke-linecap="round" stroke-dasharray="2,5" transform="translate(170.007485, 32.000000) scale(-1, 1) translate(-170.007485, -32.000000) "></path>
+                              <path d="M120.883857,8.12698413 C123.715211,8.12698413 124.841317,18.8253968 124.841317,32 C124.841317,45.1746032 123.715211,55.8730159 120.883857,55.8730159 C108.23912,54.9612643 98.4520958,44.5731195 98.4520958,32.0634921 C98.4520958,19.5538646 108.23912,9.16571978 120.883857,8.25396825 L120.883857,8.12698413 Z" class="Shape" fill="#92A8D5" fill-rule="nonzero" transform="translate(111.646707, 32.000000) scale(-1, 1) translate(-111.646707, -32.000000) "></path>
+                              <path d="M2.90697737,31.9206877 C2.82741617,19.4252264 12.2147701,9.01329509 24.3592814,8.12698413 L22.9064597,8.12698413 C10.1901234,8.23170896 -0.050146771,18.8692385 0.00133387793,31.9206877 C-0.0645648256,38.2169271 2.31363542,44.2812434 6.61100374,48.7750837 C10.9083721,53.2689239 16.7715783,55.822804 22.9064597,55.8730159 L24.3592814,55.8730159 C12.1546977,54.9831548 2.74518393,44.4770684 2.90697737,31.9206877 Z" class="Shape" fill="#92A8D5" fill-rule="nonzero" transform="translate(12.179641, 32.000000) scale(-1, 1) translate(-12.179641, -32.000000) "></path>
+                              <path d="M69.4458426,8.12698413 C72.063823,8.1325296 74.6628607,8.57231979 77.1377246,9.42854825 C67.5094491,12.7326457 61.0404169,21.809653 61.0404169,32.0154475 C61.0404169,42.221242 67.5094491,51.2982493 77.1377246,54.6023468 C68.2034599,57.6476514 58.3189804,55.1126807 51.9391344,48.1399238 C45.5592884,41.1671669 43.8886894,31.0731882 47.6802618,22.4072553 C51.4718343,13.7413225 60.0096705,8.1396977 69.4458426,8.12698413 Z" class="Shape" fill="#92A8D5" fill-rule="nonzero" transform="translate(61.405689, 32.000000) scale(-1, 1) translate(-61.405689, -32.000000) "></path>
+                          </g>
+                      </g>
+                  </g>
+              </g>
+            </svg>
+          <div class="select box">
+            <button class="button grey start-btn">get started</button>
+          </div>
+      </h4></div>
+      <div class="field calendars">
+        <div class="calendar">
+          <div class="date-header">
+            <svg width="11px" height="13px" viewBox="0 0 11 13" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+              <!-- Generator: sketchtool 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+              <title>moon icon</title>
+              <desc>Created with sketchtool.</desc>
+              <defs></defs>
+              <g class="style-guide" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+                  <g class="icons" transform="translate(-170.000000, -34.000000)" fill="#2E4676">
+                      <path d="M176.830961,34.0168995 C175.75447,35.1809617 175.09456,36.7507096 175.09456,38.4777778 C175.09456,41.9087874 177.698972,44.7189146 181,44.9608783 C179.838918,46.2164137 178.193212,47 176.3682,47 C172.85114,47 170,44.0898509 170,40.5 C170,36.9101491 172.85114,34 176.3682,34 C176.523821,34 176.678137,34.0056976 176.830961,34.0168995 Z" class="moon_ico"></path>
+                  </g>
+              </g>
+            </svg>
+            <p><a class="date">date</a> / <a class="month">month</a> / <a class="year">year</a></p>
+          </div>
+          
+          <div class="content">
+            <div class="content-field year-field">
+              <p class="mark uppercase">select a year</p>
+              <ul>
+                  
+                    <li>1919</li>
+                  
+                    <li>1920</li>
+                  
+                    <li>1921</li>
+                  
+                    <li>1922</li>
+                  
+                    <li>1923</li>
+                  
+                    <li>1924</li>
+                  
+                    <li>1925</li>
+                  
+                    <li>1926</li>
+                  
+                    <li>1927</li>
+                  
+                    <li>1928</li>
+                  
+                    <li>1929</li>
+                  
+                    <li>1930</li>
+                  
+                    <li>1931</li>
+                  
+                    <li>1932</li>
+                  
+                    <li>1933</li>
+                  
+                    <li>1934</li>
+                  
+                    <li>1935</li>
+                  
+                    <li>1936</li>
+                  
+                    <li>1937</li>
+                  
+                    <li>1938</li>
+                  
+                    <li>1939</li>
+                  
+                    <li>1940</li>
+                  
+                    <li>1941</li>
+                  
+                    <li>1942</li>
+                  
+                    <li>1943</li>
+                  
+                    <li>1944</li>
+                  
+                    <li>1945</li>
+                  
+                    <li>1946</li>
+                  
+                    <li>1947</li>
+                  
+                    <li>1948</li>
+                  
+                    <li>1949</li>
+                  
+                    <li>1950</li>
+                  
+                    <li>1951</li>
+                  
+                    <li>1952</li>
+                  
+                    <li>1953</li>
+                  
+                    <li>1954</li>
+                  
+                    <li>1955</li>
+                  
+                    <li>1956</li>
+                  
+                    <li>1957</li>
+                  
+                    <li>1958</li>
+                  
+                    <li>1959</li>
+                  
+                    <li>1960</li>
+                  
+                    <li>1961</li>
+                  
+                    <li>1962</li>
+                  
+                    <li>1963</li>
+                  
+                    <li>1964</li>
+                  
+                    <li>1965</li>
+                  
+                    <li>1966</li>
+                  
+                    <li>1967</li>
+                  
+                    <li>1968</li>
+                  
+                    <li>1969</li>
+                  
+                    <li>1970</li>
+                  
+                    <li>1971</li>
+                  
+                    <li>1972</li>
+                  
+                    <li>1973</li>
+                  
+                    <li>1974</li>
+                  
+                    <li>1975</li>
+                  
+                    <li>1976</li>
+                  
+                    <li>1977</li>
+                  
+                    <li>1978</li>
+                  
+                    <li>1979</li>
+                  
+                    <li>1980</li>
+                  
+                    <li>1981</li>
+                  
+                    <li>1982</li>
+                  
+                    <li>1983</li>
+                  
+                    <li>1984</li>
+                  
+                    <li>1985</li>
+                  
+                    <li>1986</li>
+                  
+                    <li>1987</li>
+                  
+                    <li>1988</li>
+                  
+                    <li>1989</li>
+                  
+                    <li>1990</li>
+                  
+                    <li>1991</li>
+                  
+                    <li>1992</li>
+                  
+                    <li>1993</li>
+                  
+                    <li>1994</li>
+                  
+                    <li>1995</li>
+                  
+                    <li>1996</li>
+                  
+                    <li>1997</li>
+                  
+                    <li>1998</li>
+                  
+                    <li>1999</li>
+                  
+                    <li>2000</li>
+                  
+                    <li>2001</li>
+                  
+                    <li>2002</li>
+                  
+                    <li>2003</li>
+                  
+                    <li>2004</li>
+                  
+                    <li>2005</li>
+                  
+                    <li>2006</li>
+                  
+                    <li>2007</li>
+                  
+                    <li>2008</li>
+                  
+                    <li>2009</li>
+                  
+                    <li>2010</li>
+                  
+                    <li>2011</li>
+                  
+                    <li>2012</li>
+                  
+                    <li>2013</li>
+                  
+                    <li>2014</li>
+                  
+                    <li>2015</li>
+                  
+                    <li>2016</li>
+                  
+                    <li>2017</li>
+                  
+                    <li>2018</li>
+                  
+                    <li>2019</li>
+                  
+                    <li>2020</li>
+                  
+                    <li>2021</li>
+                  
+                    <li>2022</li>
+                  
+                    <li>2023</li>
+                  
+                    <li>2024</li>
+                  
+                    <li>2025</li>
+                  
+                    <li>2026</li>
+                  
+                    <li>2027</li>
+                  
+                    <li>2028</li>
+                  
+                    <li>2029</li>
+                  
+                    <li>2030</li>
+                  
+              </ul>
+            </div>
+            <div class="content-field month-field">
+              <p class="title uppercase">select a month</p>
+              <ul>
+                <li date-for="January">January</li><li date-for="February">February</li><li date-for="March">March</li><li date-for="April">April</li><li date-for="May">May</li><li date-for="June">June</li><li date-for="July">July</li><li date-for="August">August</li><li date-for="September">September</li><li date-for="October">October</li>
+                <li date-for="November">November</li><li date-for="December">December</li>
+              </ul>
+            </div>
+            <div class="content-field date-field">
+              <p class="title uppercase">select a date</p>
+              <ul>
+                  
+                    <li>1</li>
+                  
+                    <li>2</li>
+                  
+                    <li>3</li>
+                  
+                    <li>4</li>
+                  
+                    <li>5</li>
+                  
+                    <li>6</li>
+                  
+                    <li>7</li>
+                  
+                    <li>8</li>
+                  
+                    <li>9</li>
+                  
+                    <li>10</li>
+                  
+                    <li>11</li>
+                  
+                    <li>12</li>
+                  
+                    <li>13</li>
+                  
+                    <li>14</li>
+                  
+                    <li>15</li>
+                  
+                    <li>16</li>
+                  
+                    <li>17</li>
+                  
+                    <li>18</li>
+                  
+                    <li>19</li>
+                  
+                    <li>20</li>
+                  
+                    <li>21</li>
+                  
+                    <li>22</li>
+                  
+                    <li>23</li>
+                  
+                    <li>24</li>
+                  
+                    <li>25</li>
+                  
+                    <li>26</li>
+                  
+                    <li>27</li>
+                  
+                    <li>28</li>
+                  
+                    <li>29</li>
+                  
+                    <li>30</li>
+                  
+                    <li>31</li>
+                  
+              </ul>
+            </div>
+            <div class="content-field  save-field">
+
+              <div class="grid">
+                  <div class="grid__item one-third small--one-whole content-img">
+                    <img src="" class="modal_moon_phase_img" alt="PL">
+                    <div class="moon-icon">
+                        <div></div>
+                    </div>
+
+                  </div>
+                  <div class="grid_item two-thirds small--one-whole content-info">
+                    <p class="mark"></p>
+                    <p></p>
+                  </div><div class="grid_item two-thirds small--one-whole content-info-savedate">
+                      <div class="moonphase-name"></div>
+                      <label class="occasion_field">
+                        
+                        
+
+                        <select id="occasion-wrap" class="form-control occasion">
+                          <option value="" selected="">Significance of this date</option>
+                          
+                            <option value="My Birthday">My Birthday</option>
+                          
+                            <option value=" My child's Birthday"> My child's Birthday</option>
+                          
+                            <option value=" My parent's Birthday"> My parent's Birthday</option>
+                          
+                            <option value=" My Friend's Birthday"> My Friend's Birthday</option>
+                          
+                            <option value=" My Spouse's Birthday"> My Spouse's Birthday</option>
+                          
+                            <option value=" Anniversary"> Anniversary</option>
+                          
+                            <option value=" Wedding Date"> Wedding Date</option>
+                          
+                            <option value=" Engagement Date"> Engagement Date</option>
+                          
+                            <option value=" Graduation Date"> Graduation Date</option>
+                          
+                            <option value=" Death Anniversary"> Death Anniversary</option>
+                          
+                            <option value=" Milestone/Achievement"> Milestone/Achievement</option>
+                          
+                            <option value=" Gotcha Day (Child)"> Gotcha Day (Child)</option>
+                          
+                            <option value=" Gotcha Day (Pet)"> Gotcha Day (Pet)</option>
+                          
+                            <option value=" Religious Ceremony"> Religious Ceremony</option>
+                          
+                            <option value=" Other"> Other</option>
+                          
+                        </select>
+                        <span class="error">Please select occasion.</span>
+                      </label>
+                      <div class="animated bounceIn save-date-res-msg" data-text="Your date has been saved!">
+                        Your date has been saved!
+                      </div>
+                    </div></div>
+                       
+              
+                <div class="grid content-pannel">
+                  
+                    <a class="button small select-phase" date-val="">Select moon phase</a><p class="mark text-center save-date">Save this date</p>
+                      <a class="button small save_ocassion_btn" data-customer-id="" data-customer-email="" data-before="Save Favourite Date" data-after="Removing Date" data-process="Saving....." data-remove="Removing...">Save this date</a><a href="" class="button small shop-date">Shop Using My Moon Phase</a>
+                        <a href="/account/login?checkout_url=https://www.moonglow.com/?modal=true" tabindex="0" title="Save this date" class="checkout_link">
+                          <p class="mark btn-brown text-center goto-save-date" data-text="Save this date to my favorite" data-logintext="Please login to save the date">Save this date</p>
+                        </a>
+                      
+                      <p class="mark btn-brown text-center btn-back-to-calc">Back to calculator</p>
+                      <a href="/account" class="button small btn-brown btn-view-fav-dates index">
+                        View my saved dates
+                      </a>
+                </div>
+              
+
+            </div>
+            <div class="alert-message animated alert-danger bounceIn bounceOut modal_alert" data-text="Please select Correct date." data-logintext="Please login to save the date">
+            Please select Correct date.
+            </div>
+          </div>
+          
+          <div class="special-phase">
+            <h6 class="title text-center" style="margin-bottom: 10px;">Or select an eclipse moon phase</h6>
+            <a class="LE" data-target="">Lunar Eclipse</a>
+            <a class="SE" data-target="">Solar Eclipse</a>
+          </div></div>
+      </div>
+    </div>
+  </div>
+<style>
+  #shopify-section-header #moon-phase {
+    width: 65%;
+    left: 17.5%;
+    padding: 25px 20px;
+    height: 85vh;
+    max-height: 635px;
+    position: fixed;
+    top: 60px;
+    display: block;
+    z-index: 50;
+    background: white;
+    overflow-y: scroll;
+}
+
+div#moon-phase {
+    position: fixed;
+    top: 60px;
+    display: block;
+    z-index: 50;
+    width: 65%;
+    left: 17.5%;
+    padding: 25px 20px;
+    height: 85vh;
+    max-height: 635px;
+    background: white;
+}
+
+div#moon-phase .close {
+    top: 0;
+    font-family: "Montserrat Regular";
+    font-size: 14px;
+    line-height: 16px;
+    color: #2E4676;
+    text-transform: uppercase;
+    cursor: pointer;
+    position: absolute;
+    right: 0px;
+    padding: 10px;
+    margin-top: 0px;
+    float: right;
+    text-shadow: none;
+    display: inline-flex;
+    vertical-align: bottom;
+    z-index: 10000;
+    top: 0;
+}
+
+.modal .close img {
+    filter: brightness(0.5);
+    margin-left: 10px;
+    margin-bottom: 16px;
+}
+
+.modal .back {
+    top: 0;
+    font-family: "Montserrat Regular";
+    display: none;
+    line-height: 16px;
+    font-size: 14px;
+    color: #2E4676;
+    text-transform: uppercase;
+    cursor: pointer;
+    position: absolute;
+    left: 0px;
+    padding: 10px;
+    margin-top: -90px;
+    float: right;
+    text-shadow: none;
+    vertical-align: bottom;
+}
+.overrlayed {
+    display: block;
+    width: 100%;
+    height: 100%;
+    background: rgb(0,0,0,0.5);
+    position: fixed;
+    top: 0;
+    left: 0;
+}
+.modal .back img {
+    filter: brightness(0.5);
+    margin-right: 10px;
+    margin-bottom: 3px;
+    height: 15px;
+}
+
+.modal .modal-body {
+    max-width: 900px;
+    display: table;
+    margin: auto;
+}
+
+.modal-body .start {
+    margin-top: 70px;
+}
+
+.field.start h3 {
+    font-size: 24px;
+    line-height: 29px;
+    letter-spacing: .82px;
+    margin-bottom: 25px;
+    text-transform: capitalize;
+}
+
+.modal .modal-body h4 {
+    color: #2E4676;
+}
+
+.modal-body .calendars {
+    display: none;
+}
+
+.modal-body .calendars .calendar {
+    display: table;
+    margin: auto;
+}
+
+#shopify-section-header #moon-phase .modal-body .calendars .calendar .date-header {
+    display: table;
+    border: 1px solid #D0D9E5;
+    width: 300px;
+    margin: auto;
+    background: #D0D9E5;
+    border-radius: 30px;
+    padding: 10px;
+}
+
+.button.grey {
+    background-color: #CEC1B5;
+    border-color: #CEC1B5;
+    width: 270px;
+    padding: 10px;
+    margin: auto;
+    display: table;
+    display: table;
+    text-decoration: none !important;
+    padding: 10px;
+    margin-top: 20px;
+    font-family: 'Montserrat SemiBold';
+    font-size: 14px;
+    font-weight: 600;
+    letter-spacing: .6px;
+    line-height: 18px;
+    text-align: center;
+    border: 1px solid;
+    border-radius: 3px;
+    color: #fff;
+    margin-bottom: 10px;
+    text-transform: uppercase;
+    cursor: pointer;
+    color: #fff;
+}
+  #shopify-section-header #moon-phase .modal-body .calendars .calendar .content-field, #shopify-section-header-simple #moon-phase .modal-body .calendars .calendar .content-field {
+    margin-top: 40px;
+}
+.date-header {
+    display: table;
+    border: 1px solid #D0D9E5;
+    width: 300px;
+    margin: auto;
+    background: #D0D9E5;
+    border-radius: 30px;
+    padding: 10px;
+}
+
+#shopify-section-header #moon-phase .modal-body .calendars .calendar .date-header svg {
+    filter: brightness(0);
+    margin-left: 50px;
+    margin-top: 3px;
+    float: left;
+}
+
+.date-header p {
+    font-size: 14px;
+    line-height: 18px;
+    margin: 0px;
+    font-family: "Montserrat Light";
+    font-weight: 300;
+    letter-spacing: 0.6px;
+    width: 100%;
+    text-align: center;
+}
+.content-field.year-field {
+    text-align: center;
+}
+
+.year-field ul {
+    height: 300px;
+    overflow: scroll;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.year-field ul li:hover {
+    color: gray;
+    cursor: pointer;
+}
+  div#moon-phase {
+    box-shadow: 0px -1px 2px #000;
+}
+  .month-field {
+    display: none;
+}
+
+.date-field {
+    display: none;
+}
+
+.save-field {
+    display: none;
+}
+
+.alert-message {
+    display: none;
+}
+
+.special-phase {
+    display: none;
+}
+</style>
+<script>
+  $('.start-btn').click(function(){
+    $('.field.calendars').show();
+    $('.field.start').hide();
+
+  })
+</script>
